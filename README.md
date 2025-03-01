@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <script src="array.js"></script>
+  <p> abcdef</p> 
 </body>
 </html>
